@@ -26,4 +26,4 @@ var MissingCats = cats%raw;
 console.log(
   `ci sono ${cats} gatti in fila per ${raw},
   quindi sono disposti per ${Rounded} e ne rimangono ${MissingCats}.
-`);//"ci sono 44 gatti in fila per 8, quindi sono disposti per 8 e ne rimangono 4"
+`);//"ci sono 44 gatti in fila per 8, quindi sono disposti in 8 file e ne rimangono 4"
