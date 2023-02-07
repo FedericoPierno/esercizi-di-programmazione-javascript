@@ -17,3 +17,4 @@ var e = 5;
 
 var somma = a+b+c+d+e;
 var media = somma/5;
+//somma= 15 media= 3
