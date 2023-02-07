@@ -17,3 +17,13 @@
 
   http://www.imparareaprogrammare.it
 */
+var cats = 44;
+var raw = 6;
+
+var CatsRaws = cats/raw;
+var Rounded = math.ceil(CatsRaws);
+var MissingCats = cats%raw;
+console.log(
+  `ci sono ${cats} gatti in fila per ${raw},
+  quindi sono disposti in ${Rounded} e ne rimangono ${MissingCats}.
+`);
