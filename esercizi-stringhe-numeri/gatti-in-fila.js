@@ -21,7 +21,7 @@ var cats = 44;
 var raw = 6;
 
 var CatsRaws = cats/raw;
-var Rounded = math.ceil(CatsRaws);
+var Rounded = Math.ceil(CatsRaws);
 var MissingCats = cats%raw;
 console.log(
   `ci sono ${cats} gatti in fila per ${raw},
