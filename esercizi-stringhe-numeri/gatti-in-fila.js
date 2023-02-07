@@ -25,5 +25,6 @@ var Rounded = math.ceil(CatsRaws);
 var MissingCats = cats%raw;
 console.log(
   `ci sono ${cats} gatti in fila per ${raw},
-  quindi sono disposti in ${Rounded} e ne rimangono ${MissingCats}.
+  quindi sono disposti per ${Rounded} e ne rimangono ${MissingCats}.
 `);
+//"ci sono 44 gatti in fila per 8, quindi sono disposti per 8 e ne rimangono 4"
